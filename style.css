@@ -1,0 +1,35 @@
+#headers {
+    color: pink;
+    text-align: center;
+    margin-top: 100px;
+    padding: 10%;
+
+}
+.barbieLogo{
+    font-family: 'Barbie',sans-serif;
+}
+
+body {
+    background-color: #533B4D;
+    /* font-family:fantasy; */
+    text-align: center;
+   color: #F564A9;
+
+}
+
+/* ----------------for the box --------------- */
+
+.button a{
+    display: block;
+    text-align:left ;
+    text-decoration: none;
+
+
+}
+
+
+
+
+
+
+
